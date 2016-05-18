@@ -1,0 +1,13 @@
+a{
+	color: #B9CFD0;
+	margin: 0 30px;
+	padding: 20px 40px;
+	background-color: #6B84D0;
+	border-radius: 6px;
+	text-decoration: none;
+	transition: color 600ms, background-color 600ms;
+}
+a:hover {
+	color: #fff;
+	background-color: #FF7E40;
+}
